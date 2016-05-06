@@ -1,7 +1,0 @@
-<?php defined('SYSPATH') or die('No direct script access.');
-
-class Model_Message extends ORM{
-
-  protected $_tagle_name = 'messages';
-
-}	
